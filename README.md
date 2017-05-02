@@ -37,3 +37,13 @@ Please note:
 
 ```
 
+Oh we could write a whole essay on the history elements contained in a posting like that. Starting wtih: Bang path email addresses!
+
+Anyhow - To compile this program just do:
+```
+cc mtest2017.c
+```
+
+This works on my mac. Your mileage may vary, and you may wish to make additional modifications to squelch the rest of the warnings.
+
+The most interesting thing about this is the notion that something written in a programming language 30 years ago can still be compiled, and run!
