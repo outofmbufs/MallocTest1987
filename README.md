@@ -37,7 +37,7 @@ Please note:
 
 ```
 
-Oh we could write a whole essay on the history elements contained in a posting like that. Starting wtih: Bang path email addresses!
+Oh we could write a whole essay on the history elements contained in a posting like that. Starting with: Bang path email addresses!
 
 Anyhow - To compile this program just do:
 ```
